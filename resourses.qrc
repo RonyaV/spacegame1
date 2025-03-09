@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>meteor.png</file>
+        <file>ship.png</file>
+        <file>background.png</file>
+        <file>ufo.png</file>
+    </qresource>
+</RCC>
