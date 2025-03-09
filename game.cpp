@@ -1,7 +1,7 @@
 #include "game.h"
 
 Game::Game(QWidget *parent): QGraphicsView(parent), lives(3) {
-    scene = new QGraphicsScene(0, 0, 500, 700, this);
+    scene = new QGraphicsScene(0, 0, 500, 700, this); //это мои изменения
     setScene(scene);
     setFixedSize(500, 700);
 
